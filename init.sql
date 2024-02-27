@@ -1,0 +1,3 @@
+CREATE USER root;
+CREATE DATABASE rest-api-db;
+GRANT ALL PRIVILEGES ON DATABASE rest-api-db TO root;
